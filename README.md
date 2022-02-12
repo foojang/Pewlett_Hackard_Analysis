@@ -13,3 +13,9 @@ Results:
 3.  Pewlett Hackard should focus on creating a succession plan for Senior Engineer, Senior Staff and Engineers. This is the group that will be hot hardest by retirement. 
 
 4. The majority of employees that are eligible for a mentorship program will cover the three titles that will be most affected by retirement. 
+
+Summary: 
+
+There are 33,118 employees that are eligible for retirement 
+
+There are not enough employees eligible for the mentor program to cover all of the retiring employees. With 1465 eligible employees each employee would have to menor 22 employees. I don't believe that this would be an effective mentor program and the teacher would be spread to thin   
